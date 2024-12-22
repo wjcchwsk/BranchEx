@@ -1,10 +1,10 @@
-# User Guide for **QuickNote**  
+# User Guide for **NoteMaster**  
 
-QuickNote is an application for taking and organizing notes. This guide explains how to use QuickNote for your daily tasks.  
+NoteMaster is an application for taking and organizing notes. This guide explains how to use NoteMaster for your daily tasks.  
 
 ---
 
-## Features of QuickNote  
+## Features of NoteMaster  
 1. **Create Notes**: Add new notes quickly.  
 2. **Edit Notes**: Make changes to your notes whenever needed.  
 3. **Organize Notes**: Sort your notes into folders or categories.  
@@ -12,10 +12,10 @@ QuickNote is an application for taking and organizing notes. This guide explains
 
 ---
 
-## How to Use QuickNote  
+## How to Use NoteMaster  
 
 ### Step 1: Open the App  
-- Open the QuickNote app from your device's home screen.  
+- Open the NoteMaster app from your device's home screen.  
 
 ### Step 2: Create a New Note  
 1. Tap the **New Note** button.  
