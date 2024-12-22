@@ -5,10 +5,10 @@ NoteMaster is an application for taking and organizing notes. This guide explain
 ---
 
 ## Features of NoteMaster  
-1. **Create Notes**: Add new notes quickly.  
-2. **Edit Notes**: Make changes to your notes whenever needed.  
-3. **Organize Notes**: Sort your notes into folders or categories.  
-4. **Search Notes**: Use keywords to find specific notes.  
+* **Create Notes**: Add new notes quickly.  
+* **Edit Notes**: Make changes to your notes whenever needed.  
+* **Organize Notes**: Sort your notes into folders or categories.  
+* **Search Notes**: Use keywords to find specific notes.  
 
 ---
 
